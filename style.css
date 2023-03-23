@@ -1,0 +1,17 @@
+html{
+    height: 90%;
+}
+body{
+    margin: 0px;
+    height: 100%;
+    font-size: 900%;
+    padding: 50px;
+}
+.base{
+    box-shadow: 0 4px 30px rgba(26, 69, 200, 0.9);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(26, 69, 200);
+    height: 100%;
+}
